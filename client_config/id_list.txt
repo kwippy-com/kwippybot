@@ -1,0 +1,12 @@
+0	Web
+1	Gadu-Gadu
+2	Gtalk
+3	ICQ
+4	MSN
+5	MySpaceIM
+6	QQ
+7	Yahoo
+8	AIM
+9	Facebook
+10	API
+11	Mobile
